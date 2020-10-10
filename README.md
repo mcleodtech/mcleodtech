@@ -46,9 +46,18 @@
 
 ---
 
-<img align="left" alt="mcleodtech's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mcleodtech&show_icons=true&hide_border=true&theme=dark"/>
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcleodtech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="mcleodtech's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mcleodtech&show_icons=true&hide_border=true&theme=dark"/>
+  
+  <br />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcleodtech&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+
 
 [website]: https://componer.tech
 [linkedin]: https://www.linkedin.com/in/mcleodtech/
