@@ -30,6 +30,9 @@
 <img align="left" alt="Vim"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/vim.svg"/>
 <img align="left" alt="AWS"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/amazonaws.svg"/>
 
+<br />
+<br />
+
 ### Favorite YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
