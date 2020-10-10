@@ -1,4 +1,4 @@
-### Hi, I'm Robert! Welcome to my GitHub page! [website]
+### Hi, I'm Robert! Welcome to my GitHub page! 
 
 ## I am a web developer/network administrator with a big interest in Cybersecurity Concepts
 - 🐍 I enjoy working with Python in Djano and network auditing
@@ -8,7 +8,7 @@
 
 ### Connect with me:
 [<img align="left" alt="componer.tech"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/html5.svg"/>][website]
-[<img align="left" alt="LinkedIn.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg">] [linkedin]
+[<img align="left" alt="LinkedIn.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg"/>][linkedin]
 
 [website]: https://componer.tech
 [linkedin]: https://www.linkedin.com/in/mcleodtech/
