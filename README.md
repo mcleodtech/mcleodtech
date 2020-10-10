@@ -35,6 +35,11 @@
 
 ### Favorite YouTube Videos
 <!-- YOUTUBE:START -->
+- [Building an invisible PC](https://www.youtube.com/watch?v=Perqf0dOGLk)
+- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+- [CEHv10 Complete Training | Ethical Hacking | Security](https://www.youtube.com/watch?v=4DQtZo3RAO0)
+- [Making Cappuccino/Latte/Flat White at Home (without an Espresso Machine)](https://www.youtube.com/watch?v=ZgIVfU0xBjA)
+- [Guide To Becoming A Self-Taught Software Developer](https://www.youtube.com/watch?v=J6rVaFzOEP8)
 <!-- YOUTUBE:END -->
 
 
