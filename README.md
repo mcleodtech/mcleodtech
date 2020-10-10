@@ -33,7 +33,9 @@
 <br />
 <br />
 
-### Favorite YouTube Videos
+---
+
+### 📺 Favorite YouTube Videos
 <!-- YOUTUBE:START -->
 - [Building an invisible PC](https://www.youtube.com/watch?v=Perqf0dOGLk)
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
@@ -42,6 +44,9 @@
 - [Guide To Becoming A Self-Taught Software Developer](https://www.youtube.com/watch?v=J6rVaFzOEP8)
 <!-- YOUTUBE:END -->
 
+---
+
+<img align="left" alt="mcleodtech's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mcleodtech&show_icons=true&hide_border=true"/>
 
 [website]: https://componer.tech
 [linkedin]: https://www.linkedin.com/in/mcleodtech/
