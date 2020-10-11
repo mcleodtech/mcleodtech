@@ -1,5 +1,7 @@
 ### Hi, I'm Robert! Welcome to my GitHub page! 
 
+[![website](https://img.shields.io/badge/Website-https%3A%2F%2Fcomponer.tech-brightgreen)]
+
 ## I am a web developer/network administrator with a big interest in cybersecurity concepts
 - 🐍 I enjoy working with Python in Djano and network auditing
 - 🦎 My favorite linux distro is [OpenSuse] - I've been using it since I was 14
