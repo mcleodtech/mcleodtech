@@ -1,6 +1,6 @@
 ### Hi, I'm Robert! Welcome to my GitHub page! 
 
-[![website](https://img.shields.io/badge/Website-https%3A%2F%2Fcomponer.tech-brightgreen)]
+[![website](https://img.shields.io/badge/Website-https%3A%2F%2Fcomponer.tech-brightgreen)][website]
 
 ## I am a web developer/network administrator with a big interest in cybersecurity concepts
 - 🐍 I enjoy working with Python in Djano and network auditing
