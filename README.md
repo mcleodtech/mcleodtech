@@ -43,7 +43,7 @@
 - [Networking in C++ Part #1: MMO Client/Server, ASIO & Framework Basics](https://www.youtube.com/watch?v=2hNdkYInj4g)
 - [Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
 - [Building an invisible PC](https://www.youtube.com/watch?v=Perqf0dOGLk)
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+- [Network Programming with Python Course (build a port scanner, mailing client, chat room, DDOS)](https://www.youtube.com/watch?v=FGdiSJakIS4)
 <!-- YOUTUBE:END -->
 
 ---
