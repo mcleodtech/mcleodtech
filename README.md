@@ -39,11 +39,11 @@
 
 ### 📺 Favorite YouTube Videos
 <!-- YOUTUBE:START -->
-- [Linux Security - Securing Nginx](https://www.youtube.com/watch?v=-lrSPJTeGhQ)
+- [Why Cyber Security is Hard to Learn (Tips For Success!)](https://www.youtube.com/watch?v=vI79qT4lcfA)
 - [Networking in C++ Part #1: MMO Client/Server, ASIO & Framework Basics](https://www.youtube.com/watch?v=2hNdkYInj4g)
 - [Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
-- [Building an invisible PC](https://www.youtube.com/watch?v=Perqf0dOGLk)
 - [Network Programming with Python Course (build a port scanner, mailing client, chat room, DDOS)](https://www.youtube.com/watch?v=FGdiSJakIS4)
+- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 <!-- YOUTUBE:END -->
 
 ---
