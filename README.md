@@ -3,9 +3,9 @@
 [![website](https://img.shields.io/badge/Website-https%3A%2F%2Fcomponer.tech-brightgreen?style=for-the-badge&logo=html5)][website]
 
 ## I am a web developer/network administrator with a big interest in cybersecurity concepts
-- 🐍 I enjoy working with Python in Djano and network auditing
-- 🦎 My favorite linux distro is [OpenSuse] - I've been using it since I was 14
-- 🏆 2020 Goals: To be more involved in CTF events
+- 🐍 I enjoy working with Angular and web application security.
+- 🦎 My favorite linux distro is [OpenSuse] - I've been using it since I was 14!
+- 🏆 2023 Goals: To Continue to develop my JS and Angular skills.
 - 🎻 Fun fact: I play the violin, Irish flute, and piano professionally
 
 ### Connect with me:
