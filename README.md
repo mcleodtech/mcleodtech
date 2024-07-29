@@ -1,7 +1,5 @@
 ### Hi, I'm Robert! Welcome to my GitHub page! 
 
-[![website](https://img.shields.io/badge/Website-https%3A%2F%2Fcomponer.tech-brightgreen?style=for-the-badge&logo=html5)][website]
-
 ## I am a web developer/network administrator with a big interest in cybersecurity concepts
 - 🐍 I enjoy working with Angular and web application security.
 - 🦎 My favorite linux distro is [OpenSuse] - I've been using it since I was 14!
@@ -9,7 +7,6 @@
 - 🎻 Fun fact: I play the violin, Irish flute, and piano professionally
 
 ### Connect with me:
-[<img align="left" alt="componer.tech"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/html5.svg"/>][website]
 [<img align="left" alt="LinkedIn.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg"/>][linkedin]
 
 <br />
@@ -56,8 +53,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcleodtech&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-[website]: https://componer.tech
 [linkedin]: https://www.linkedin.com/in/mcleodtech/
 [opensuse]: https://www.opensuse.org
